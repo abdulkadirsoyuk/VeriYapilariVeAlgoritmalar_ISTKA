@@ -10,3 +10,6 @@ Bu repo, ISTKA tarafından düzenlenen Siber Akademi eğitimi kapsamında aldı�
 4. Döngüler
 5. Döngüler Uygulamaları
 6. Pointer, Dizi, ve Fonksiyonlar
+7. Dosya işlemleri ve Quiz Soru çözümü
+8. Veri görselleştirme
+9. Sıralama algoritmaları
